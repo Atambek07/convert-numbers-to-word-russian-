@@ -22,7 +22,7 @@
 
 - Запустите файл:
 
-bash
+
 ```
 python3 converter.py
 ```
